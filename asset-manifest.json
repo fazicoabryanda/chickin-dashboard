@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chickin-dashboard/static/css/main.f9169f7e.css",
+    "main.js": "/chickin-dashboard/static/js/main.88950ae1.js",
+    "static/js/453.429c89ac.chunk.js": "/chickin-dashboard/static/js/453.429c89ac.chunk.js",
+    "static/media/placeholder_chickencam.webp": "/chickin-dashboard/static/media/placeholder_chickencam.d77fc8fcd6f30cf5aaa1.webp",
+    "static/media/logo-chickin.png": "/chickin-dashboard/static/media/logo-chickin.f072a3d23e28be269506.png",
+    "index.html": "/chickin-dashboard/index.html",
+    "main.f9169f7e.css.map": "/chickin-dashboard/static/css/main.f9169f7e.css.map",
+    "main.88950ae1.js.map": "/chickin-dashboard/static/js/main.88950ae1.js.map",
+    "453.429c89ac.chunk.js.map": "/chickin-dashboard/static/js/453.429c89ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9169f7e.css",
+    "static/js/main.88950ae1.js"
+  ]
+}
